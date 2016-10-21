@@ -1,21 +1,55 @@
 # Intermediate Algorithm Scripting
 
+
+
 ##Description
 
-Complete the intermediate algorithm scripting section here:
+
+
+Complete the Intermediate Algorithm Scripting section here:
 https://www.freecodecamp.com/map
 
-###Specifications
 
-Listed in the link above
 
-Required
+##Specifications
 
-Do not remove these specs - they are required for all goals.
+- [ ] Sum All Numbers in a Range 
+- [ ] Diff Two Arrays 
+- [ ] Roman Numeral Converter 
+- [ ] Wherefore art thou
+- [ ] Search and Replace
+- [ ] Pig Latin
+- [ ] DNA Pairing
+- [ ] Missing letters 
+- [ ] Boo who 
+- [ ] Sorted Union
+- [ ] Use Mocha to implement Tests for each problem set
+- [ ] Commit problem set to Github and create branches/files
 
- The artifact produced is properly licensed, preferably with the [MIT license][mit-license].
-Quality Rubric
 
-What are some appropriate quality objectives for this goal? These are statements about the internal characteristics of the product that demonstrate fine design and craftspersonship, not its external features.
 
-Quality rubric one: Code is readable
+##Stretch Goals
+
+- [ ] Convert HTML Entities 
+- [ ] Spinal Tap Case
+- [ ] Sum All Odd Fibonacci Numbers
+- [ ] Sum All Primes
+- [ ] Smallest Common Multiple
+- [ ] Finders Keepers
+- [ ] Drop it
+- [ ] Steamroller
+- [ ] Binary Agents
+- [ ] Everything Be True
+- [ ] Arguments Optional
+
+
+
+##Required
+
+- [ ] The artifact produced is properly licensed, preferably with the [MIT license][mit-license].
+
+
+
+##Quality Rubric
+
+- [ ] Quality rubric #1: Code is readable
