@@ -23,7 +23,6 @@ https://www.freecodecamp.com/map
 - [ ] Missing letters 
 - [ ] Boo who 
 - [ ] Sorted Union
-- [ ] Use Mocha to implement Tests for each problem set
 - [ ] Commit problem set to Github and create branches/files
 
 
