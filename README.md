@@ -13,7 +13,7 @@ https://www.freecodecamp.com/map
 
 ##Specifications
 
-- [ ] Sum All Numbers in a Range 
+- [X] Sum All Numbers in a Range 
 - [ ] Diff Two Arrays 
 - [ ] Roman Numeral Converter 
 - [ ] Wherefore art thou
