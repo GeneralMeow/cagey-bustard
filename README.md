@@ -14,9 +14,9 @@ https://www.freecodecamp.com/map
 ##Specifications
 
 - [X] Sum All Numbers in a Range 
-- [ ] Diff Two Arrays 
-- [ ] Roman Numeral Converter 
-- [ ] Wherefore art thou
+- [X] Diff Two Arrays 
+- [X] Roman Numeral Converter 
+- [X] Wherefore art thou
 - [ ] Search and Replace
 - [ ] Pig Latin
 - [ ] DNA Pairing
