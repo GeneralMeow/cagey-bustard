@@ -18,7 +18,7 @@ https://www.freecodecamp.com/map
 - [X] Roman Numeral Converter 
 - [X] Wherefore art thou
 - [X] Search and Replace
-- [ ] Pig Latin
+- [X] Pig Latin
 - [ ] DNA Pairing
 - [ ] Missing letters 
 - [ ] Boo who 
