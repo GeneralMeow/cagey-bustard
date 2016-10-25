@@ -19,7 +19,7 @@ https://www.freecodecamp.com/map
 - [X] Wherefore art thou
 - [X] Search and Replace
 - [X] Pig Latin
-- [ ] DNA Pairing
+- [X] DNA Pairing
 - [ ] Missing letters 
 - [ ] Boo who 
 - [ ] Sorted Union
