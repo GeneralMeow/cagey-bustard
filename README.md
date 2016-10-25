@@ -17,7 +17,7 @@ https://www.freecodecamp.com/map
 - [X] Diff Two Arrays 
 - [X] Roman Numeral Converter 
 - [X] Wherefore art thou
-- [ ] Search and Replace
+- [X] Search and Replace
 - [ ] Pig Latin
 - [ ] DNA Pairing
 - [ ] Missing letters 
