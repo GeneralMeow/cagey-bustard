@@ -29,7 +29,7 @@ https://www.freecodecamp.com/map
 
 ##Stretch Goals
 
-- [ ] Convert HTML Entities 
+- [X] Convert HTML Entities 
 - [ ] Spinal Tap Case
 - [ ] Sum All Odd Fibonacci Numbers
 - [ ] Sum All Primes
