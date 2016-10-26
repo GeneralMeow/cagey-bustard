@@ -21,7 +21,7 @@ https://www.freecodecamp.com/map
 - [X] Pig Latin
 - [X] DNA Pairing
 - [X] Missing letters 
-- [ ] Boo who 
+- [X] Boo who 
 - [ ] Sorted Union
 - [ ] Commit problem set to Github and create branches/files
 
