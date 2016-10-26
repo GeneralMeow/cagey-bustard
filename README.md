@@ -30,7 +30,7 @@ https://www.freecodecamp.com/map
 ##Stretch Goals
 
 - [X] Convert HTML Entities 
-- [ ] Spinal Tap Case
+- [X] Spinal Tap Case
 - [ ] Sum All Odd Fibonacci Numbers
 - [ ] Sum All Primes
 - [ ] Smallest Common Multiple
