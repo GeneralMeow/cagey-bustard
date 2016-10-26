@@ -20,7 +20,7 @@ https://www.freecodecamp.com/map
 - [X] Search and Replace
 - [X] Pig Latin
 - [X] DNA Pairing
-- [ ] Missing letters 
+- [X] Missing letters 
 - [ ] Boo who 
 - [ ] Sorted Union
 - [ ] Commit problem set to Github and create branches/files
