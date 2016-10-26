@@ -22,7 +22,7 @@ https://www.freecodecamp.com/map
 - [X] DNA Pairing
 - [X] Missing letters 
 - [X] Boo who 
-- [ ] Sorted Union
+- [X] Sorted Union
 - [ ] Commit problem set to Github and create branches/files
 
 
