@@ -34,7 +34,7 @@ https://www.freecodecamp.com/map
 - [X] Sum All Odd Fibonacci Numbers
 - [X] Sum All Primes
 - [X] Smallest Common Multiple
-- [ ] Finders Keepers
+- [X] Finders Keepers
 - [ ] Drop it
 - [ ] Steamroller
 - [ ] Binary Agents
