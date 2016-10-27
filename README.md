@@ -32,7 +32,7 @@ https://www.freecodecamp.com/map
 - [X] Convert HTML Entities 
 - [X] Spinal Tap Case
 - [X] Sum All Odd Fibonacci Numbers
-- [ ] Sum All Primes
+- [X] Sum All Primes
 - [ ] Smallest Common Multiple
 - [ ] Finders Keepers
 - [ ] Drop it
