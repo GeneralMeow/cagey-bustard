@@ -33,7 +33,7 @@ https://www.freecodecamp.com/map
 - [X] Spinal Tap Case
 - [X] Sum All Odd Fibonacci Numbers
 - [X] Sum All Primes
-- [ ] Smallest Common Multiple
+- [X] Smallest Common Multiple
 - [ ] Finders Keepers
 - [ ] Drop it
 - [ ] Steamroller
