@@ -23,7 +23,7 @@ https://www.freecodecamp.com/map
 - [X] Missing letters 
 - [X] Boo who 
 - [X] Sorted Union
-- [ ] Commit problem set to Github and create branches/files
+- [X] Commit problem set to Github and create branches/files
 
 
 
@@ -45,10 +45,10 @@ https://www.freecodecamp.com/map
 
 ##Required
 
-- [ ] The artifact produced is properly licensed, preferably with the [MIT license][mit-license].
+- [X] The artifact produced is properly licensed, preferably with the [MIT license][mit-license].
 
 
 
 ##Quality Rubric
 
-- [ ] Quality rubric #1: Code is readable
+- [X] Quality rubric #1: Code is readable
