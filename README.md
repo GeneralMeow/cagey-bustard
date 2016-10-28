@@ -37,7 +37,7 @@ https://www.freecodecamp.com/map
 - [X] Finders Keepers
 - [X] Drop it
 - [X] Steamroller
-- [ ] Binary Agents
+- [X] Binary Agents
 - [ ] Everything Be True
 - [ ] Arguments Optional
 
