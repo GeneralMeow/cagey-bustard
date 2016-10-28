@@ -35,7 +35,7 @@ https://www.freecodecamp.com/map
 - [X] Sum All Primes
 - [X] Smallest Common Multiple
 - [X] Finders Keepers
-- [ ] Drop it
+- [X] Drop it
 - [ ] Steamroller
 - [ ] Binary Agents
 - [ ] Everything Be True
