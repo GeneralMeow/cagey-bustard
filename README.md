@@ -38,8 +38,8 @@ https://www.freecodecamp.com/map
 - [X] Drop it
 - [X] Steamroller
 - [X] Binary Agents
-- [ ] Everything Be True
-- [ ] Arguments Optional
+- [X] Everything Be True
+- [X] Arguments Optional
 
 
 
