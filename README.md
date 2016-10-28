@@ -36,7 +36,7 @@ https://www.freecodecamp.com/map
 - [X] Smallest Common Multiple
 - [X] Finders Keepers
 - [X] Drop it
-- [ ] Steamroller
+- [X] Steamroller
 - [ ] Binary Agents
 - [ ] Everything Be True
 - [ ] Arguments Optional
